@@ -3,11 +3,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
-- [Character System](#character-system)
-- [Leveling System](#leveling-system)
-- [AI](#ai)
-- [Mission System](#mission-system)
-- [Combat System](#combat-system)
 - [Inventory System](#inventory-system)
 - [Dependencies](#dependencies)
 - [Building and Running](#building-and-running)
@@ -41,11 +36,28 @@ Witness the growing unrest and political tensions leading to the Balenvhenian Sc
 
 ## Project Structure
 
+## Inventory System
+
+## Trading System
+
+## Foodcart System
 
 
+## Dialogue System
+
+
+## Quest System
+
+
+## Event System
+
+
+
+
+## Dependencies
+
+## Building and Running
 
 ## Contributing
-We welcome contributions from the community! Please refer to our CONTRIBUTING.md file for guidelines.
 
 ## License
-This project is licensed under the MIT License.
