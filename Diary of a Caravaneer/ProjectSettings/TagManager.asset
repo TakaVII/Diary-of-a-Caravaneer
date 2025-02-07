@@ -2,8 +2,9 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - UI
   layers:
   - Default
   - TransparentFX
@@ -41,3 +42,35 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Water
+    uniqueID: 3904950773
+    locked: 0
+  - name: Ground
+    uniqueID: 4141545333
+    locked: 0
+  - name: Path
+    uniqueID: 4096892099
+    locked: 0
+  - name: Wall
+    uniqueID: 3069350527
+    locked: 0
+  - name: Character 1
+    uniqueID: 3578400361
+    locked: 0
+  - name: Character 2
+    uniqueID: 3943124801
+    locked: 0
+  - name: Character 3
+    uniqueID: 943572353
+    locked: 0
+  - name: Ceiling
+    uniqueID: 3315747817
+    locked: 0
+  - name: UI
+    uniqueID: 3926423775
+    locked: 0
+  - name: UI 2
+    uniqueID: 90581903
+    locked: 0
+  m_RenderingLayers:
+  - Default
