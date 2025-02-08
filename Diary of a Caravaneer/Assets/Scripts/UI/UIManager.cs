@@ -94,7 +94,7 @@ public class UIManager : MonoBehaviour
         set
         {
             showLocation = value;
-            gameplayCanvaController.ShowLocationName(value ? "Location Name" : null);
+            gameplayCanvaController.UpdateLocationName(value ? "Location Name" : null); // Update this line
         }
     }
 

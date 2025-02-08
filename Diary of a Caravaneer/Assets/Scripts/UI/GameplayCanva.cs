@@ -12,6 +12,11 @@ public class GameplayCanvaController : MonoBehaviour
 
     [Header("Menu Prefabs")]
     [SerializeField] private GameObject statsMenuPrefab;
+    [SerializeField] private GameObject itemIconBasePrefab; // Add this line
+    [SerializeField] private GameObject relationshipMenuPrefab;
+    [SerializeField] private GameObject notesMenuPrefab;
+    [SerializeField] private GameObject loreMenuPrefab;
+    [SerializeField] private GameObject settingsMenuPrefab;
 
     private GameObject currentMenuInstance;
 
