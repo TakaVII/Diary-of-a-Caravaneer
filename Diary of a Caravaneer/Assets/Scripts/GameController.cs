@@ -1,12 +1,7 @@
 using UnityEngine;
-using TMPro;
 
-public class StatsMenu : MonoBehaviour
+public class GameController : MonoBehaviour
 {
-    [Header("Stat Menu Values")]
-    [SerializeField] public TMP_Text goldValue;
-    [SerializeField] public TMP_Text reputationValue;
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
